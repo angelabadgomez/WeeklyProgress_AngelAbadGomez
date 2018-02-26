@@ -1,5 +1,13 @@
 # WeeklyProgress_AngelAbadGomez
 Weekly progress from Front-End Web Developer Nanodegree - Udacity<br>
+Week (26th Feb - 4th May)<br>
+
+TODO
+
+- [ ] Learn lessons from 15 to 17<br>
+- [ ] To publish in github the Animal Trading Cards project<br>
+- [ ] To publish in github the Build a Porfolio Site project<br>
+
 Week (19th Feb - 25th Feb)<br>
 
 TODO
