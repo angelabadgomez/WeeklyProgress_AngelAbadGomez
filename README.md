@@ -3,7 +3,12 @@ Weekly progress from Front-End Web Developer Nanodegree - Udacity<br>
 
 TODO
 
-Week (5th May / 11th May)<br>
+Week (12th May - 18th May)<br>
+
+- [ ] To finish the Build a Portfolio Site project<br>
+- [ ] To start the Web Programming with Javascript module<br>
+
+Week (5th May - 11th May)<br>
 
 - [ ] To make the Build a Portfolio Site project<br>
 - [ ] To start the Web Programming with Javascript module<br>
