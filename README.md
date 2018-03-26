@@ -3,6 +3,16 @@ Weekly progress from Front-End Web Developer Nanodegree - Udacity<br>
 
 TODO
 
+Week (26th May - 1st April)<br>
+
+- [ ] Web Programming with Javascript: Lesson 21-22<br>
+- [ ] Execise: Pixel Art Maker
+
+Week (19th May - 25th May)<br>
+
+- [ ] Web Programming with Javascript: Lesson 12 to 15<br>
+
+
 Week (12th May - 18th May)<br>
 
 - [ ] To finish the Build a Portfolio Site project<br>
