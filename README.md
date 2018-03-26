@@ -5,6 +5,11 @@ TODO
 
 Week (19th May - 25th May)<br>
 
+- [ ] Web Programming with Javascript: Lesson 21-22<br>
+- [ ] Execise: Pixel Art Maker
+
+Week (19th May - 25th May)<br>
+
 - [ ] Web Programming with Javascript: Lesson 12 to 15<br>
 
 
